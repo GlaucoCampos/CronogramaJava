@@ -1,7 +1,7 @@
 
 package escola;
 
-import dal.TarefaDAO;
+import dao.TarefaDAO;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;

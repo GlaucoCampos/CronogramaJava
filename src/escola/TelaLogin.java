@@ -1,7 +1,7 @@
 package escola;
 
 import java.sql.*;
-import dal.ModuloConexao;
+import dao.ModuloConexao;
 import javax.swing.JOptionPane;
 
 public class TelaLogin extends javax.swing.JFrame {

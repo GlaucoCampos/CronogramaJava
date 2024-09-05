@@ -1,7 +1,7 @@
 
 package escola;
 
-import dal.ModuloConexao;
+import dao.ModuloConexao;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Connection;

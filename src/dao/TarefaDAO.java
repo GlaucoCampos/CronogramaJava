@@ -1,9 +1,9 @@
-package dal;
+package dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import dal.ModuloConexao;
+import dao.ModuloConexao;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.util.HashMap;
